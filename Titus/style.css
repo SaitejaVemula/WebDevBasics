@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+    font-family: Arial;
+    margin: 50px;
+    background: linear-gradient(to bottom left, #444, #222);
+    color: #ffffff;
+    min-height: 100vh;
+    font-weight: 300;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: underline;
+    color: white;
+}
